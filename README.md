@@ -1,1 +1,1 @@
-# landing-page
+Created a landing page for a website using HTML and CSS during the Top Odin Project
